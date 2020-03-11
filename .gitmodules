@@ -27,3 +27,8 @@
 	path = OCA/hr-timesheet
 	url = git@github.com:OCA/hr-timesheet.git
 	branch = 12.0
+
+[submodule "OCA/partner-contact"]
+	path = OCA/partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 12.0
