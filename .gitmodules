@@ -2,3 +2,8 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 13.0
+
+[submodule "lszt/odoo-addons-custom-mfgt"]
+	path = lszt/odoo-addons-custom-mfgt
+	url = git@github.com:lszt/odoo-addons-custom-mfgt.git
+	branch = 13.0
