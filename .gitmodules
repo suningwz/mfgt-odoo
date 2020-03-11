@@ -22,3 +22,8 @@
 	path = OCA/bank-statement-reconcile
 	url = git@github.com:OCA/bank-statement-reconcile.git
 	branch = 12.0
+
+[submodule "OCA/hr-timesheet"]
+	path = OCA/hr-timesheet
+	url = git@github.com:OCA/hr-timesheet.git
+	branch = 12.0
